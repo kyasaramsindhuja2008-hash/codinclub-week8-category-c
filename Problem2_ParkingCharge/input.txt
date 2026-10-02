@@ -1,0 +1,5 @@
+4
+BIKE 3
+CAR 4
+TRUCK 1
+CAR 1
